@@ -12,7 +12,7 @@ function animateValue(obj, start, end, duration) {
   }
   
   const obj1 = document.getElementById("value1");
-  animateValue(obj1, 0, 12000, 2000);
+  animateValue(obj1, 0, 12000, 1000);
 
 
   function animateValue(obj, start, end, duration) {
@@ -29,7 +29,7 @@ function animateValue(obj, start, end, duration) {
   }
   
   const obj2 = document.getElementById("value2");
-  animateValue(obj2, 0, 100, 2000);
+  animateValue(obj2, 0, 100, 1000);
 
 
   function animateValue(obj, start, end, duration) {
@@ -46,4 +46,4 @@ function animateValue(obj, start, end, duration) {
   }
   
   const obj3 = document.getElementById("value3");
-  animateValue(obj3, 0, 2000, 2000);
+  animateValue(obj3, 0, 2000, 1000);
