@@ -23,6 +23,7 @@
   background-color: white;
   color: #977bcb;
   border: 1px #977bcb solid;
+  box-shadow: 2px 3px 21px -3px rgba(0,0,0,0.9);
   /* transition: white 4000ms linear; */
   
 }
