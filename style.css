@@ -16,7 +16,7 @@
 .statistics {
   display: flex;
   flex-direction: row;
-  height: 24rem;
+  height: 28rem;
   margin-block: 6rem;
 }
 .statsbox:hover {
